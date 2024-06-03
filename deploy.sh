@@ -1,6 +1,6 @@
 #/usr/bin/env sh
 
-SCHEDULER_HOST="10.20.52.49"
+SCHEDULER_HOST="icecc.groveer.com"
 
 # 定义函数，用于读取 /etc/os-release 文件中的 Name 字段并返回对应的值
 get_os_name() {
